@@ -1,6 +1,6 @@
 # Escape_Room
 Escape Room Java Game
-Overview
+Overview:
 
 This project is a Java-based Escape Room Game featuring 10 interactive rooms with increasing difficulty.
 The goal is to progress through each room by solving riddles and finding hidden keys.
@@ -21,7 +21,7 @@ Currently, it runs entirely in the console.
 | 9    | Easy       | Fake room                                                         |
 | 10   | Ultra Hard | credit-glith-UHC                                                  |
 
-Features
+Features:
 
 Console-based interactive gameplay.
 
