@@ -12,13 +12,13 @@ Currently, it runs entirely in the console.
 | ---- | ---------- | ----------------------------------------------------------------- |
 | 1    | Easy       | Key hidden under 1 of 2 items (simple riddles)                    |
 | 2    | Easy       | Key hidden under 1 of 3 items (simple riddles)                    |
-| 3    | Hard       | Word Maze (newspaper-style) – key generates after maze completion |
-| 4    | Medium     |                                                                   |
+| 3    | Easy       | Word Maze (newspaper-style) – key generates after maze completion |
+| 4    | Hard       |                                                                   |
 | 5    | Medium     |                                                                   |
-| 6    | Hard       | Ticking zombie trap – escape before time runs out                 |
-| 7    | Medium     |                                                                   |
-| 8    | Easy       |                                                                   |
-| 9    | Medium     |                                                                   |
+| 6    | Medium     | Ticking zombie trap – escape before time runs out                 |
+| 7    | Hard       |                                                                   |
+| 8    | Medium     |                                                                   |
+| 9    | Easy       |                                                                   |
 | 10   | Ultra Hard | Final boss room – complex, story-driven escape sequence           |
 
 Features
