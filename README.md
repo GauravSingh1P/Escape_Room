@@ -15,7 +15,7 @@ Currently, it runs entirely in the console.
 | 3    | Easy       | Alphabtical cypher - crossword puzzle                             |
 | 4    | Hard       |                                                                   |
 | 5    | Medium     | Memory recall-Maze                                                |
-| 6    | Medium     |                                                                   |
+| 6    | Medium     | Complicated cypher with time                                      |
 | 7    | Hard       |                                                                   |
 | 8    | Medium     |                                                                   |
 | 9    | Easy       |                                                                   |
