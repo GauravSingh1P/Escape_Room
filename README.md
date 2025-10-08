@@ -12,7 +12,7 @@ Currently, it runs entirely in the console.
 | ---- | ---------- | ----------------------------------------------------------------- |
 | 1    | Easy       | Key hidden under 1 of 2 items (simple riddles)                    |
 | 2    | Easy       | Key hidden under 1 of 3 items (fake countdown with  riddles)      |
-| 3    | Easy       |                                                                   |
+| 3    | Easy       | Alphabtical cypher - crossword puzzle                             |
 | 4    | Hard       |                                                                   |
 | 5    | Medium     |                                                                   |
 | 6    | Medium     |                                                                   |
