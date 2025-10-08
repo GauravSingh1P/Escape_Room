@@ -15,10 +15,10 @@ Currently, it runs entirely in the console.
 | 3    | Easy       | Alphabtical cypher - crossword puzzle                             |
 | 4    | Hard       |                                                                   |
 | 5    | Medium     | Memory recall-Maze                                                |
-| 6    | Medium     | Complicated cypher with time                                      |
-| 7    | Hard       |                                                                   |
-| 8    | Medium     |                                                                   |
-| 9    | Easy       |                                                                   |
+| 6    | Medium     | Complicated cypher with Time                                      |
+| 7    | Hard       | Multiple puzzle's,zomies emerge with time making puzzle difficult |
+| 8    | Medium     | O-old man-O old man                                               |
+| 9    | Easy       | Fake room                                                         |
 | 10   | Ultra Hard | Final boss room – complex, story-driven escape sequence           |
 
 Features
