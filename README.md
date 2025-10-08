@@ -8,18 +8,19 @@ The goal is to progress through each room by solving riddles and finding hidden 
 In the future, this project will include a frontend interface for a more immersive experience.
 Currently, it runs entirely in the console.
 
-Game Structure
-Room    Difficulty	                Description
-1	    Easy	            Key hidden under 1 of 2 items (simple riddles)
-2	    Easy	            Key hidden under 1 of 3 items (simple riddles)
-3	    Hard	            Word Maze(News paper) key generates after the maze is completed
-4	    Medium	            
-5	    Medium	            
-6	    Hard	            ticking zombie trap escape room
-7	    Medium	            
-8	    Easy	            
-9	    Medium	            
-10	    Ultra Hard          (Final Boss)	Complex, story-driven 
+| Room | Difficulty | Description                                                       |
+| ---- | ---------- | ----------------------------------------------------------------- |
+| 1    | Easy       | Key hidden under 1 of 2 items (simple riddles)                    |
+| 2    | Easy       | Key hidden under 1 of 3 items (simple riddles)                    |
+| 3    | Hard       | Word Maze (newspaper-style) – key generates after maze completion |
+| 4    | Medium     |                                                                   |
+| 5    | Medium     |                                                                   |
+| 6    | Hard       | Ticking zombie trap – escape before time runs out                 |
+| 7    | Medium     |                                                                   |
+| 8    | Easy       |                                                                   |
+| 9    | Medium     |                                                                   |
+| 10   | Ultra Hard | Final boss room – complex, story-driven escape sequence           |
+
 Features
 
 Console-based interactive gameplay.
