@@ -19,7 +19,7 @@ Currently, it runs entirely in the console.
 | 7    | Hard       | Multiple puzzle's,zomies emerge with time making puzzle difficult |
 | 8    | Medium     | O-old man-O old man                                               |
 | 9    | Easy       | Fake room                                                         |
-| 10   | Ultra Hard | Final boss room – complex, story-driven escape sequence           |
+| 10   | Ultra Hard | credit-glith-UHC                                                  |
 
 Features
 
