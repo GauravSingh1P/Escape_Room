@@ -11,11 +11,11 @@ Currently, it runs entirely in the console.
 | Room | Difficulty | Description                                                       |
 | ---- | ---------- | ----------------------------------------------------------------- |
 | 1    | Easy       | Key hidden under 1 of 2 items (simple riddles)                    |
-| 2    | Easy       | Key hidden under 1 of 3 items (simple riddles)                    |
-| 3    | Easy       | Word Maze (newspaper-style) – key generates after maze completion |
+| 2    | Easy       | Key hidden under 1 of 3 items (fake countdown with  riddles)      |
+| 3    | Easy       |                                                                   |
 | 4    | Hard       |                                                                   |
 | 5    | Medium     |                                                                   |
-| 6    | Medium     | Ticking zombie trap – escape before time runs out                 |
+| 6    | Medium     |                                                                   |
 | 7    | Hard       |                                                                   |
 | 8    | Medium     |                                                                   |
 | 9    | Easy       |                                                                   |
