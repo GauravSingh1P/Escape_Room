@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Level1",
+            "request": "launch",
+            "mainClass": "src.levels.Level1",
+            "projectName": "Escape_Room_1a8a9d27",
+            "vmArgs": "--module-path C:/dev/java/openjfx-25_windows-x64_bin-sdk/javafx-sdk-25/lib --add-modules javafx.controls"
+        }
+    ]
+}
