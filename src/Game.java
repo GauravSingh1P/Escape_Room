@@ -1,38 +1,22 @@
-package src;
+package resources;
 
-import java.util.ArrayList;
-import java.util.List;
-import src.levels.*;
+import javafx.stage.Stage;
+import levels.Level1;
 
 public class Game {
-    private Player player;
-    private List<Level> levels;
-    private int currentLevelIndex;
+    private Stage stage;
 
-    public Game() {
-        player = new Player(100, 200);
-        levels = new ArrayList<>();
-        levels.add(new Level1()); // add other levels similarly
-        currentLevelIndex = 0;
+    public Game(Stage stage) {
+        this.stage = stage;
     }
 
-    public Player getPlayer() {
-        return player;
-    }
-
-    public Level getCurrentLevel() {
-        if (currentLevelIndex < levels.size()) {
-            return levels.get(currentLevelIndex);
-        }
-        return null;
+    public void startGame() {
+        Level1 level1 = new Level1(stage, this);
+        level1.start();
     }
 
     public void nextLevel() {
-        currentLevelIndex++;
-    }
-
-    public boolean isGameFinished() {
-        return currentLevelIndex >= levels.size();
+        System.out.println("Level 2 unlocked! 🚪");
+        // Later, you can load Level2 here.
     }
 }
-
