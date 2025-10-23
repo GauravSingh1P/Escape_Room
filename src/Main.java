@@ -1,22 +1,22 @@
 package src;
 
-import src.levels.Level1;
 import javafx.application.Application;
+import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 public class Main extends Application {
-    private Game game;
 
     @Override
     public void start(Stage primaryStage) {
-        game = new Game();
-        // For now, we can just launch Level1 JavaFX scene
-        Level1 level1 = (Level1) game.getCurrentLevel();
-        try {
-            level1.start(new Player(100, 200));
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+         Game game = new Game(); // create your game logic object
+        Scene scene = new Scene(game.getRoot(), 800, 600);
+        
+        
+        primaryStage.setTitle("My JavaFX Game");
+        primaryStage.setScene(scene);
+        primaryStage.show();
+
+        game.start();
     }
 
     public static void main(String[] args) {
